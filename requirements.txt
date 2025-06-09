@@ -1,4 +1,4 @@
 streamlit
-tensorflow
+tensorflow==2.15.0  # or tensorflow==2.14.0 or tensorflow==2.13.0
 Pillow
 numpy
